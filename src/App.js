@@ -32,7 +32,7 @@ const Viewport = () => {
       </div>
       <div className="info">
         <div className="source-code">
-          <a href="https://github.com/rahuljiara/Viewport-Info" target="_blank">Source Code
+          <a href="https://github.com/rahuljiara/viewportinfo-code" target="_blank">Source Code
             <img src="https://cdn-icons-png.flaticon.com/512/1006/1006363.png" />
           </a>
         </div>
